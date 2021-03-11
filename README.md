@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hayri Aral</h1>
+<h4 align="center">Software engineer</h2>
 
 <!--
 **hayriaral/hayriaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
