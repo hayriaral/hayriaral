@@ -4,8 +4,13 @@
 <p align="center">
   <em>Software engineer</em>
 </p>
+
+<br/>
+
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hayriaral&label=Visitor+counter&color=blue&style=flat"
+  <img 
+       src="https://komarev.com/ghpvc/?username=hayriaral&label=Visitor+counter&color=blue&style=flat"
+       alt="The visitor counter should've displayed here." >
 </p>
 
 <!--
