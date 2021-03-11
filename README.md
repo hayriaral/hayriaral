@@ -1,8 +1,13 @@
-<h1 align="center">Hayri Aral</h1>
-<h4 align="center">Software engineer</h2>
-<p> 
+<h1 align="center">
+  Hayri Aral
+</h1>
+<p align="center">
+  <em>Software engineer</em>
+</p>
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hayriaral&label=Visitor+counter&color=blue&style=flat"
 </p>
+
 <!--
 **hayriaral/hayriaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
